@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @geekswagg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Collins Omwenga
+- 👀 I’m interested in k8s, helm and microservices
+- 🌱 I’m currently learning Game theory
+- 💞️ I’m looking to collaborate on Cloudextend
+- 📫 How to reach me @omwenga_c on twitter
 
 <!---
 geekswagg/geekswagg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
