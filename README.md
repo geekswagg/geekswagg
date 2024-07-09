@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Collins Omwenga
 - 👀 I’m interested in k8s, helm and microservices
-- 🌱 I’m currently learning Game theory
+- 🌱 I’m currently building Hewani
 - 💞️ I’m looking to collaborate on Cloudextend
 - 📫 How to reach me @omwenga_c on twitter
 
